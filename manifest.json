@@ -1,24 +1,24 @@
 {
-  "version": "0.2.7",
-  "tag": "v0.2.7",
-  "sourceRevision": "d43240caaa9a4ad3540c0a104439eb3ae7dace45",
+  "version": "0.2.8",
+  "tag": "v0.2.8",
+  "sourceRevision": "9ee6b9f93061b12b4d6adcaeccad2360c0e37320",
   "prerelease": false,
   "assets": [
     {
       "os": "windows",
       "arch": "amd64",
       "name": "Lanora-Windows-x64.exe",
-      "sha256": "147d8f0497f96bac4fa81fcefd5376a3d0d5a651cd2901e0fe63f1ed42202ba8",
-      "size": 15549468,
-      "url": "https://github.com/revelar-labs/lanora-releases/releases/download/v0.2.7/Lanora-Windows-x64.exe"
+      "sha256": "526e2d138b3f07b11aaf735b0278a1c60b5af50e1efa3678f8dfc852f8e4560e",
+      "size": 15534243,
+      "url": "https://github.com/revelar-labs/lanora-releases/releases/download/v0.2.8/Lanora-Windows-x64.exe"
     },
     {
       "os": "linux",
       "arch": "amd64",
       "name": "Lanora-Linux-amd64.deb",
-      "sha256": "810e7c9df3cd4fc5ae5ef6ee348ae2c19dc8b4d4913793293e117da811dcb9a1",
-      "size": 10848876,
-      "url": "https://github.com/revelar-labs/lanora-releases/releases/download/v0.2.7/Lanora-Linux-amd64.deb"
+      "sha256": "478177431b9f414fd9c27a21b7f3a76b53c33e0d90b537a4724a701486e1ed24",
+      "size": 10857144,
+      "url": "https://github.com/revelar-labs/lanora-releases/releases/download/v0.2.8/Lanora-Linux-amd64.deb"
     }
   ]
 }
